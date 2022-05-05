@@ -1,3 +1,5 @@
 {
+  "name": "football",
+  "description": "football",
   "start_url": "index.js"
 }
